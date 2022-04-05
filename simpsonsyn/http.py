@@ -15,5 +15,5 @@ def get(url: str, headers=None) -> str:
 
 
 def getSeasons() -> str:
-    URL = "https://simpsons-latino.net/"
+    URL = "https://simpsons-latino.xyz/"
     return get(URL)
